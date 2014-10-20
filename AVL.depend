@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1413821955 source:c:\users\msbox\workspace\avl\src\avltree.cpp
+	"AVLTree.h"
+	<conio.h>
+	<iostream>
+
+1413821748 c:\users\msbox\workspace\avl\include\avltree.h
+
+1413821195 source:c:\users\msbox\workspace\avl\src\main.cpp
+	<conio.h>
+	<iostream>
+	"AVLTree.h"
+
+1413820329 c:\users\msbox\workspace\avl\src\avltree.cpp
+	"AVLTree.h"
+	<conio.h>
+	<iostream>
+
